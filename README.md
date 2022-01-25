@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm Harshank Pathak, an IT guy who loves codes.
+    Friendly neighborhood IT guy
   </samp>
 </p>
 
