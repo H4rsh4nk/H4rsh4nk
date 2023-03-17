@@ -30,5 +30,3 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4rsh4nk&theme=dark&layout=compact" /> 
 </p>
 
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=H4rsh4nk alt=rahuldkjain/> </p>
