@@ -8,7 +8,7 @@
 <p><img align="right" src="https://github.com/H4rsh4nk/H4rsh4nk/blob/main/animation_500_kxa883sd.gif" alt="H4rsh4nk" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning NextJS, MongoDB and DevOps
 
 - 📫 How to reach me **pathakharshank@gmail.com**
 
