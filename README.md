@@ -87,8 +87,8 @@
 
 <!-- Amazon -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-    alt="aws" width="40" height="40" />
+  <img src="https://www.seekpng.com/png/full/328-3284428_copyright-2017-facebook-inc-aws-logo.png"
+    alt="aws" width="40" height="30" />
 </a>
 
 <!-- MySQL -->
